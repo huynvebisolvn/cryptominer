@@ -1,0 +1,7 @@
+{
+  "name": "HerokuCoin",
+  "description": "Heroku Coin",
+  "repository": "https://github.com/nvhuy9527/herokucoin",
+  "logo": "https://image.flaticon.com/icons/png/128/4119/4119898.png",
+  "keywords": ["node", "express", "static"]
+}
